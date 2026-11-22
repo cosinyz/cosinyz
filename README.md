@@ -6,6 +6,8 @@
 
 Python backend and Telegram bot developer. Building Telegram bots, Django web apps, and site layouts with SQL databases.
 
+Telegram: [@endefer](https://t.me/endefer)
+
 ### core skills
 
 <p align="left">
