@@ -1,16 +1,16 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td width="300" align="center">
+      <img src="./art.jpg" width="270" alt="Profile visual" />
+    </td>
+    <td>
 
-<!--
-**cosinyz/cosinyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+baitur@macbook ~ fastfetch
+--------------------------
+OS:        macOS / Linux
+Focus:     Python Backend & Telegram Bots
+Bot Stack: aiogram 3, SQLite, PostgreSQL, REST API
+Web Stack: Django, HTML, CSS, JavaScript, Layout
+Tools:     Git, GitHub, Linux
+Status:    Open for freelance orders
