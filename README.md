@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="300" align="center">
-      <img src="./art.jpg" width="270" alt="Profile visual" />
+      <img src="./art.jpeg" width="270" alt="Profile visual" />
     </td>
     <td>
 
