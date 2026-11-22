@@ -20,7 +20,7 @@ Python backend and Telegram bot developer. Building Telegram bots, web apps, and
 ### activity
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ЛОГИН_GITHUB&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cosinyz&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ### contact
