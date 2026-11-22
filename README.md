@@ -4,18 +4,18 @@
 
 ### about
 
-Python backend and Telegram bot developer. Building bots, web apps, and automation scripts with clean structure and reliable databases.
+Python backend and Telegram bot developer. Building Telegram bots, web apps, and site layouts with clean structure and reliable databases.
 
 ### core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,sqlite,postgres,html,css,js,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,sqlite,postgres,html,css,js,git,github,vscode&theme=dark" />
 </p>
 
-* **languages:** python, html, css, javascript, sql
-* **bots & backend:** aiogram 3, django, rest api
+* **languages & web:** python, html, css, javascript, sql, layout
+* **bots & backend:** aiogram 3, django
 * **databases:** sqlite, postgresql
-* **tools:** git, github, linux, macos, vscode
+* **tools:** git, github, vs code
 
 ### activity
 
@@ -25,4 +25,4 @@ Python backend and Telegram bot developer. Building bots, web apps, and automati
 
 ### contact
 
-Telegram: [@ЮЗЕРНЕЙМ_ТГ](https://t.me/ЮЗЕРНЕЙМ_ТГ)
+Telegram: [@endefer](https://t.me/endefer)
